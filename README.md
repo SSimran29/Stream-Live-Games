@@ -1,2 +1,23 @@
-# Stream-Live-Games
-Stream Live Games is a full-stack web app that recommends games by genre using the RAWG.io API and displays live Twitch streams of those games. Built with JavaScript, Node.js, HTML, and CSS, it blends game discovery with real-time streaming.
+#  Stream Live Games
+
+**Stream Live Games** is a full-stack web application that connects gaming and live streaming.  
+It recommends a game based on a user’s preferred genre using the **RAWG.io API**,  
+and then finds a **live Twitch streamer** currently playing that game through the **Twitch API**.  
+Built with **JavaScript, Node.js, HTML, and CSS**, it offers a seamless real-time experience that combines  
+game discovery with live entertainment.
+
+---
+
+## 🚀 Features
+- Fetches game recommendations by genre using the RAWG.io API  
+- Displays live Twitch streamers playing the selected game using Twitch API
+- Synchronous API handling via Node.js and Express.js  
+- Responsive UI built with HTML, CSS, and JavaScript  
+
+---
+
+## Tech Stack
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** Node.js, Express.js  
+**APIs:** RAWG.io API, Twitch API  
+**Tools:** VS Code 
