@@ -1,4 +1,4 @@
-#  Stream Live Games
+#  Stream Live Games 01/25/2025 - 05/20/2025
 
 **Stream Live Games** is a full-stack web application that connects gaming and live streaming.  
 It recommends a game based on a user’s preferred genre using the **RAWG.io API**,  
