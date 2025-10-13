@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Game + Stream Recommendation</title>
+		<style>
+			body, form{
+				margin:20px auto;
+				max-width:800px;
+				overflow-x:hidden;
+			}
+			fieldset{
+				display: flex;
+			}
+			input#description{
+				flex-grow:50;
+				margin: 0 20px;
+			}
+			input#location{
+				flex-grow:50;
+				margin: 0 20px;
+			}
+		</style>
+	</head>
+	<body>
+		<form action="/search" method="get">
+            <label for="genre">Preferred Genre:</label>
+            <input id="genre" name="genre" type="text" required />
+            <input type="submit" value="Find Game & Stream" />
+        </form>
+	</body>
+</html>
