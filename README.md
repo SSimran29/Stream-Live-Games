@@ -3,7 +3,7 @@
 **Stream Live Games** is a full-stack web application that connects gaming and live streaming.  
 It recommends a game based on a user’s preferred genre using the **RAWG.io API**,  
 and then finds a **live Twitch streamer** currently playing that game through the **Twitch API**.  
-Built with **JavaScript, Node.js, HTML**, it offers a seamless real-time experience that combines  
+Built with **JavaScript, Node.js, HTML, CSS**, it offers a seamless real-time experience that combines  
 game discovery with live entertainment.
 
 ---
@@ -17,7 +17,7 @@ game discovery with live entertainment.
 ---
 
 ## Tech Stack
-**Frontend:** HTML, JavaScript  
+**Frontend:** HTML,CSS, JavaScript  
 **Backend:** Node.js, Express.js  
 **APIs:** RAWG.io API, Twitch API  
 **Tools:** VS Code 
